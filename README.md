@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bitliu/)
@@ -13,3 +13,4 @@ Bit is exploring the frontier technologies of combination of networking and LLM 
 Bit is leading the development of [vLLM Semantic Router](https://github.com/vllm-project/semantic-router), an intelligent auto reasoning router for Efficient LLM Inference on Mixture-of-Models, saving tons of cost by advanced routing algorithm.
 
 As a CNCF Ambassador and Linux Foundation LFAPAC, Bit serves on the [Envoy Gateway](https://github.com/envoyproxy/gateway) Steering Committee. He also maintains multiple projects including [Envoy AI Gateway](https://github.com/envoyproxy/ai-gateway), [vLLM AIBrix](https://github.com/vllm-project/aibrix), [Istio](https://github.com/istio), [Kiali](https://github.com/kiali), [Aeraki-Mesh](https://github.com/aeraki-mesh), and [Merbridge](https://github.com/merbridge), as well as the approver of [Higress](https://github.com/higress-group) and [MOSN](https://github.com/mosn). Additionally, Bit contributes as a [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) and [Kubernetes Ingress2Gateway](https://github.com/kubernetes-sigs/ingress2gateway) reviewer and member of Kubernetes.
+
